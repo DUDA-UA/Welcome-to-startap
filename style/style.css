@@ -35,7 +35,7 @@ a:hover{
 /* header */
 .header{
     width: 100%;
-    background-image: url("../img/header.webp");
+    background-image: url("../img/header.jpg");
     background-size: cover;
     position: relative;
     padding-bottom: 40px;
@@ -598,7 +598,7 @@ div .slider__item .slick-slide{
 
 .ourWork{
     width: 100%;
-    background-image: url('../img/ourWork.webp');
+    background-image: url('../img/ourWork.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
